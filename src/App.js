@@ -1,9 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
-
+import Counter from './Components/UseState';
 function App() {
   return (
-    <h1>hello</h1>
+    <Counter />
   );
 }
 
