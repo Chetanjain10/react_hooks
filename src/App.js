@@ -1,9 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import Counter from './Components/UseState';
+import Counter from './UseState/Us';
+import Main from './ContextAPI/Main';
 function App() {
   return (
-    <Counter />
+    <Main />
   );
 }
 
